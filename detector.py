@@ -241,6 +241,8 @@ class DNSExfilDetector:
 
 # ─── CLI entry point ──────────────────────────────────────────────────────────
 def main():
+    global ENTROPY_THRESHOLD, MAX_LABEL_LEN
+
     parser = argparse.ArgumentParser(
         description='Detect DNS exfiltration via entropy, pattern & beacon analysis',
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -272,7 +274,6 @@ Examples:
         parser.error('Specify -i <interface> for live capture or -r <file> for pcap replay')
 
     # Allow runtime threshold overrides
-    global ENTROPY_THRESHOLD, MAX_LABEL_LEN
     ENTROPY_THRESHOLD = args.entropy_threshold
     MAX_LABEL_LEN     = args.max_label_len
 
@@ -291,7 +292,7 @@ Examples:
     try:
         if args.read:
             pkts = rdpcap(args.read)
-            print(f"  Loaded {len(pkts)} packets from {args.read}\n")
+            print(f"  Loaded {{len(pkts)}} packets from {{args.read}}\n")
             for pkt in pkts:
                 detector.process_packet(pkt)
         else:
@@ -307,7 +308,7 @@ Examples:
     except PermissionError:
         print('\n  [!] Permission denied — run with sudo for live capture.')
     except Exception as exc:
-        print(f'\n  [!] Error: {exc}')
+        print(f'\n  [!] Error: {{exc}}')
     finally:
         detector.print_summary()
 
