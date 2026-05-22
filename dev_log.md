@@ -1,1 +1,2 @@
 - [2026-05-21] (Thursday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
+- [2026-05-22] (Friday) Verified beaconing window logic with simulated 10-query burst
