@@ -1,3 +1,4 @@
 - [2026-05-21] (Thursday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
 - [2026-05-22] (Friday) Verified beaconing window logic with simulated 10-query burst
 - [2026-05-25] (Monday) Added edge case handling for empty subdomain labels
+- [2026-05-26] (Tuesday) Cross-checked hex pattern regex against known C2 DNS IOCs
