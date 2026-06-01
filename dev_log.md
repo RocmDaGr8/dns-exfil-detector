@@ -5,3 +5,4 @@
 - [2026-05-27] (Wednesday) Profiled memory usage during long captures — stable, no leaks
 - [2026-05-28] (Thursday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
 - [2026-05-29] (Friday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
+- [2026-06-01] (Monday) Verified beaconing window logic with simulated 10-query burst
