@@ -8,3 +8,4 @@
 - [2026-06-01] (Monday) Verified beaconing window logic with simulated 10-query burst
 - [2026-06-02] (Tuesday) Ran detector against local network — confirmed no false positives on normal traffic
 - [2026-06-03] (Wednesday) Refactored label analysis loop for clarity
+- [2026-06-04] (Thursday) Added edge case handling for empty subdomain labels
