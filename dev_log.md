@@ -15,3 +15,4 @@
 - [2026-06-10] (Wednesday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
 - [2026-06-11] (Thursday) Verified beaconing window logic with simulated 10-query burst
 - [2026-06-12] (Friday) Ran detector against local network — confirmed no false positives on normal traffic
+- [2026-06-15] (Monday) Cross-checked hex pattern regex against known C2 DNS IOCs
