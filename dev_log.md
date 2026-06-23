@@ -21,3 +21,4 @@
 - [2026-06-18] (Thursday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
 - [2026-06-19] (Friday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
 - [2026-06-22] (Monday) Ran detector against local network — confirmed no false positives on normal traffic
+- [2026-06-23] (Tuesday) Refactored label analysis loop for clarity
