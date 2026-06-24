@@ -22,3 +22,4 @@
 - [2026-06-19] (Friday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
 - [2026-06-22] (Monday) Ran detector against local network — confirmed no false positives on normal traffic
 - [2026-06-23] (Tuesday) Refactored label analysis loop for clarity
+- [2026-06-24] (Wednesday) Added edge case handling for empty subdomain labels
