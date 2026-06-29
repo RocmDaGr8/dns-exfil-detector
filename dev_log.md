@@ -25,3 +25,4 @@
 - [2026-06-24] (Wednesday) Added edge case handling for empty subdomain labels
 - [2026-06-25] (Thursday) Cross-checked hex pattern regex against known C2 DNS IOCs
 - [2026-06-26] (Friday) Profiled memory usage during long captures — stable, no leaks
+- [2026-06-29] (Monday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
