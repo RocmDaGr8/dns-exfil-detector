@@ -29,3 +29,4 @@
 - [2026-06-30] (Tuesday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
 - [2026-07-01] (Wednesday) Verified beaconing window logic with simulated 10-query burst
 - [2026-07-02] (Thursday) Ran detector against local network — confirmed no false positives on normal traffic
+- [2026-07-03] (Friday) Refactored label analysis loop for clarity
