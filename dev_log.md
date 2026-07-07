@@ -31,3 +31,4 @@
 - [2026-07-02] (Thursday) Ran detector against local network — confirmed no false positives on normal traffic
 - [2026-07-03] (Friday) Refactored label analysis loop for clarity
 - [2026-07-06] (Monday) Profiled memory usage during long captures — stable, no leaks
+- [2026-07-07] (Tuesday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
