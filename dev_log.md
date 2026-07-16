@@ -38,3 +38,4 @@
 - [2026-07-13] (Monday) Refactored label analysis loop for clarity
 - [2026-07-14] (Tuesday) Added edge case handling for empty subdomain labels
 - [2026-07-15] (Wednesday) Cross-checked hex pattern regex against known C2 DNS IOCs
+- [2026-07-16] (Thursday) Profiled memory usage during long captures — stable, no leaks
