@@ -39,3 +39,4 @@
 - [2026-07-14] (Tuesday) Added edge case handling for empty subdomain labels
 - [2026-07-15] (Wednesday) Cross-checked hex pattern regex against known C2 DNS IOCs
 - [2026-07-16] (Thursday) Profiled memory usage during long captures — stable, no leaks
+- [2026-07-17] (Friday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
