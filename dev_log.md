@@ -41,3 +41,4 @@
 - [2026-07-16] (Thursday) Profiled memory usage during long captures — stable, no leaks
 - [2026-07-17] (Friday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
 - [2026-07-20] (Monday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
+- [2026-07-21] (Tuesday) Verified beaconing window logic with simulated 10-query burst
