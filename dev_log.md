@@ -47,3 +47,4 @@
 - [2026-07-24] (Friday) Added edge case handling for empty subdomain labels
 - [2026-07-27] (Monday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
 - [2026-07-28] (Tuesday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
+- [2026-07-29] (Wednesday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
