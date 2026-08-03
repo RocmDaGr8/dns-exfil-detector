@@ -50,3 +50,4 @@
 - [2026-07-29] (Wednesday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
 - [2026-07-30] (Thursday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
 - [2026-07-31] (Friday) Verified beaconing window logic with simulated 10-query burst
+- [2026-08-03] (Monday) Added edge case handling for empty subdomain labels
