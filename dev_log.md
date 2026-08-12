@@ -56,3 +56,4 @@
 - [2026-08-07] (Friday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
 - [2026-08-10] (Monday) Verified beaconing window logic with simulated 10-query burst
 - [2026-08-11] (Tuesday) Ran detector against local network — confirmed no false positives on normal traffic
+- [2026-08-12] (Wednesday) Refactored label analysis loop for clarity
