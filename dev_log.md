@@ -58,3 +58,4 @@
 - [2026-08-11] (Tuesday) Ran detector against local network — confirmed no false positives on normal traffic
 - [2026-08-12] (Wednesday) Refactored label analysis loop for clarity
 - [2026-08-13] (Thursday) Added edge case handling for empty subdomain labels
+- [2026-08-14] (Friday) Cross-checked hex pattern regex against known C2 DNS IOCs
