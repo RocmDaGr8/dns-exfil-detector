@@ -59,3 +59,4 @@
 - [2026-08-12] (Wednesday) Refactored label analysis loop for clarity
 - [2026-08-13] (Thursday) Added edge case handling for empty subdomain labels
 - [2026-08-14] (Friday) Cross-checked hex pattern regex against known C2 DNS IOCs
+- [2026-08-17] (Monday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
