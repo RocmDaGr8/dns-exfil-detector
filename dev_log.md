@@ -60,3 +60,4 @@
 - [2026-08-13] (Thursday) Added edge case handling for empty subdomain labels
 - [2026-08-14] (Friday) Cross-checked hex pattern regex against known C2 DNS IOCs
 - [2026-08-17] (Monday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
+- [2026-08-18] (Tuesday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
