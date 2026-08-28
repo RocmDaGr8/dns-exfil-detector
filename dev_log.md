@@ -67,3 +67,4 @@
 - [2026-08-24] (Monday) Cross-checked hex pattern regex against known C2 DNS IOCs
 - [2026-08-25] (Tuesday) Profiled memory usage during long captures — stable, no leaks
 - [2026-08-26] (Wednesday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
+- [2026-08-28] (Friday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
