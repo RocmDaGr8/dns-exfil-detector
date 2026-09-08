@@ -75,3 +75,4 @@
 - [2026-09-03] (Thursday) Cross-checked hex pattern regex against known C2 DNS IOCs
 - [2026-09-04] (Friday) Profiled memory usage during long captures — stable, no leaks
 - [2026-09-07] (Monday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
+- [2026-09-08] (Tuesday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
