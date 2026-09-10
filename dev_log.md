@@ -77,3 +77,4 @@
 - [2026-09-07] (Monday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
 - [2026-09-08] (Tuesday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
 - [2026-09-09] (Wednesday) Verified beaconing window logic with simulated 10-query burst
+- [2026-09-10] (Thursday) Ran detector against local network — confirmed no false positives on normal traffic
