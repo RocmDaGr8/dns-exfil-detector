@@ -79,3 +79,4 @@
 - [2026-09-09] (Wednesday) Verified beaconing window logic with simulated 10-query burst
 - [2026-09-10] (Thursday) Ran detector against local network — confirmed no false positives on normal traffic
 - [2026-09-11] (Friday) Refactored label analysis loop for clarity
+- [2026-09-14] (Monday) Profiled memory usage during long captures — stable, no leaks
