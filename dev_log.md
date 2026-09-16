@@ -81,3 +81,4 @@
 - [2026-09-11] (Friday) Refactored label analysis loop for clarity
 - [2026-09-14] (Monday) Profiled memory usage during long captures — stable, no leaks
 - [2026-09-15] (Tuesday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
+- [2026-09-16] (Wednesday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
