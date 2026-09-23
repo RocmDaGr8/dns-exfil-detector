@@ -86,3 +86,4 @@
 - [2026-09-18] (Friday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
 - [2026-09-21] (Monday) Refactored label analysis loop for clarity
 - [2026-09-22] (Tuesday) Added edge case handling for empty subdomain labels
+- [2026-09-23] (Wednesday) Cross-checked hex pattern regex against known C2 DNS IOCs
