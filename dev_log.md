@@ -91,3 +91,4 @@
 - [2026-09-25] (Friday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
 - [2026-09-28] (Monday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
 - [2026-09-29] (Tuesday) Verified beaconing window logic with simulated 10-query burst
+- [2026-09-30] (Wednesday) Ran detector against local network — confirmed no false positives on normal traffic
