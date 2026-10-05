@@ -94,3 +94,4 @@
 - [2026-09-30] (Wednesday) Ran detector against local network — confirmed no false positives on normal traffic
 - [2026-10-01] (Thursday) Refactored label analysis loop for clarity
 - [2026-10-02] (Friday) Added edge case handling for empty subdomain labels
+- [2026-10-05] (Monday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
