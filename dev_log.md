@@ -97,3 +97,4 @@
 - [2026-10-05] (Monday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
 - [2026-10-06] (Tuesday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
 - [2026-10-07] (Wednesday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
+- [2026-10-08] (Thursday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
