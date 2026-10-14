@@ -101,3 +101,4 @@
 - [2026-10-09] (Friday) Verified beaconing window logic with simulated 10-query burst
 - [2026-10-12] (Monday) Added edge case handling for empty subdomain labels
 - [2026-10-13] (Tuesday) Cross-checked hex pattern regex against known C2 DNS IOCs
+- [2026-10-14] (Wednesday) Profiled memory usage during long captures — stable, no leaks
