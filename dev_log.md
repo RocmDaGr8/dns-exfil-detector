@@ -105,3 +105,4 @@
 - [2026-10-15] (Thursday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
 - [2026-10-16] (Friday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
 - [2026-10-19] (Monday) Verified beaconing window logic with simulated 10-query burst
+- [2026-10-20] (Tuesday) Ran detector against local network — confirmed no false positives on normal traffic
