@@ -112,3 +112,4 @@
 - [2026-10-26] (Monday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
 - [2026-10-27] (Tuesday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
 - [2026-10-28] (Wednesday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
+- [2026-10-29] (Thursday) Verified beaconing window logic with simulated 10-query burst
