@@ -115,3 +115,4 @@
 - [2026-10-29] (Thursday) Verified beaconing window logic with simulated 10-query burst
 - [2026-10-30] (Friday) Ran detector against local network — confirmed no false positives on normal traffic
 - [2026-11-02] (Monday) Cross-checked hex pattern regex against known C2 DNS IOCs
+- [2026-11-03] (Tuesday) Profiled memory usage during long captures — stable, no leaks
