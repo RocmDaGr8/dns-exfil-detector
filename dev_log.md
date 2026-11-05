@@ -117,3 +117,4 @@
 - [2026-11-02] (Monday) Cross-checked hex pattern regex against known C2 DNS IOCs
 - [2026-11-03] (Tuesday) Profiled memory usage during long captures — stable, no leaks
 - [2026-11-04] (Wednesday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
+- [2026-11-05] (Thursday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
