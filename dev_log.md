@@ -118,3 +118,4 @@
 - [2026-11-03] (Tuesday) Profiled memory usage during long captures — stable, no leaks
 - [2026-11-04] (Wednesday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
 - [2026-11-05] (Thursday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
+- [2026-11-06] (Friday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
