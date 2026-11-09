@@ -119,3 +119,4 @@
 - [2026-11-04] (Wednesday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
 - [2026-11-05] (Thursday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
 - [2026-11-06] (Friday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
+- [2026-11-09] (Monday) Ran detector against local network — confirmed no false positives on normal traffic
