@@ -122,3 +122,4 @@
 - [2026-11-09] (Monday) Ran detector against local network — confirmed no false positives on normal traffic
 - [2026-11-10] (Tuesday) Refactored label analysis loop for clarity
 - [2026-11-11] (Wednesday) Added edge case handling for empty subdomain labels
+- [2026-11-12] (Thursday) Cross-checked hex pattern regex against known C2 DNS IOCs
