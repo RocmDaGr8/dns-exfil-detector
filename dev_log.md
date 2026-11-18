@@ -126,3 +126,4 @@
 - [2026-11-13] (Friday) Profiled memory usage during long captures — stable, no leaks
 - [2026-11-16] (Monday) Reviewed entropy threshold tuning — 3.5 bits/char holding up well against test pcaps
 - [2026-11-17] (Tuesday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
+- [2026-11-18] (Wednesday) Verified beaconing window logic with simulated 10-query burst
