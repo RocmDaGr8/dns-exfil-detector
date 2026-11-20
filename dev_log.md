@@ -128,3 +128,4 @@
 - [2026-11-17] (Tuesday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
 - [2026-11-18] (Wednesday) Verified beaconing window logic with simulated 10-query burst
 - [2026-11-19] (Thursday) Ran detector against local network — confirmed no false positives on normal traffic
+- [2026-11-20] (Friday) Refactored label analysis loop for clarity
