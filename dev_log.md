@@ -133,3 +133,4 @@
 - [2026-11-24] (Tuesday) Reviewed Scapy DNS layer parsing docs for DNSQR edge cases
 - [2026-11-25] (Wednesday) Tested pcap replay mode against Wireshark capture of DNS tunnel traffic
 - [2026-11-27] (Friday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
+- [2026-11-27] (Friday) Tested against sample base64-encoded DNS queries from SANS ISC dataset
